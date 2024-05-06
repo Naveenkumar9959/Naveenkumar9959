@@ -3,7 +3,7 @@
          height="45"
          width="45" /> , I'm Naveen Kumar</h1>
          
-- 👀 I’m interested in Data Analytics
+- 👀 I’m interested in Data Analytics, Machine Learning, Python Development
 - 🌱 I’m currently learning Python, SQL, Excel, PowerBi
 - 📫 How to reach me [bukkapatnamnaveen72086@gmail.com](bukkapatnamnaveen72086@gmail.com)
  <!--- 💞️ I’m looking to collaborate on ...
